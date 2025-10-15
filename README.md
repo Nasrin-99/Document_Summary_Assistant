@@ -1,4 +1,3 @@
-// ...existing code...
 # Document Summary Assistant
 
 A small Tkinter GUI app to extract text from PDFs/images and generate summaries using OpenAI, Hugging Face, or a simple fallback. The main application is implemented in [main.py](main.py).
